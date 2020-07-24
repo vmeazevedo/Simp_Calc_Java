@@ -10,12 +10,12 @@ Ao executar a aplicação o usuário se depara com o menu principal o qual cont�
   - Divisão.
   - Sair.
 
-O usuário pode selecionar qualquer uma das funções no menu principal, porém, ele também é questionado ao fim de cada operação se gostaria de realizar mais algum cálculo, levando o usuário ao menu de seleção novamente para que ele possa escolher a operação desejada.
+O usuário pode selecionar qualquer uma das funções no menu principal, porém, ele também é questionado ao fim de cada operação se gostaria de realizar mais algum cálculo.
 
-![c1](https://user-images.githubusercontent.com/40063504/78409993-8f455b00-75e1-11ea-8eb3-51d352af7583.PNG)
-![c2](https://user-images.githubusercontent.com/40063504/78410012-99fff000-75e1-11ea-8a06-8ebf64af2efd.PNG)
-![c3](https://user-images.githubusercontent.com/40063504/78410024-a1bf9480-75e1-11ea-8b21-c9e88e5679f4.PNG)
-![c4](https://user-images.githubusercontent.com/40063504/78410033-a7b57580-75e1-11ea-91fa-a8b92ada0835.PNG)
+![1](https://user-images.githubusercontent.com/40063504/88352004-a2b23880-cd2e-11ea-8375-aba4244c6213.PNG)
+![2](https://user-images.githubusercontent.com/40063504/88352010-a645bf80-cd2e-11ea-9486-e8a7ef540df0.PNG)
+![3](https://user-images.githubusercontent.com/40063504/88352013-a80f8300-cd2e-11ea-8df5-9a4168bc8bf5.PNG)
+![4](https://user-images.githubusercontent.com/40063504/88352017-a9d94680-cd2e-11ea-8d83-c001c2f47368.PNG)
 
 
 ## 4 operations calculator.
@@ -30,9 +30,9 @@ When running the application the user is faced with the main menu which contains
   - Division.
   - Leave.
 
-The user can select any of the functions in the main menu, however, he is also asked at the end of each operation if he would like to perform any more calculations, taking the user to the selection menu again so that he can choose the desired operation.
+The user can select any of the functions in the main menu, however, he is also asked at the end of each operation if he would like to perform any more calculations.
 
-![c1](https://user-images.githubusercontent.com/40063504/78409993-8f455b00-75e1-11ea-8eb3-51d352af7583.PNG)
-![c2](https://user-images.githubusercontent.com/40063504/78410012-99fff000-75e1-11ea-8a06-8ebf64af2efd.PNG)
-![c3](https://user-images.githubusercontent.com/40063504/78410024-a1bf9480-75e1-11ea-8b21-c9e88e5679f4.PNG)
-![c4](https://user-images.githubusercontent.com/40063504/78410033-a7b57580-75e1-11ea-91fa-a8b92ada0835.PNG)
+![1](https://user-images.githubusercontent.com/40063504/88352004-a2b23880-cd2e-11ea-8375-aba4244c6213.PNG)
+![2](https://user-images.githubusercontent.com/40063504/88352010-a645bf80-cd2e-11ea-9486-e8a7ef540df0.PNG)
+![3](https://user-images.githubusercontent.com/40063504/88352013-a80f8300-cd2e-11ea-8df5-9a4168bc8bf5.PNG)
+![4](https://user-images.githubusercontent.com/40063504/88352017-a9d94680-cd2e-11ea-8d83-c001c2f47368.PNG)
