@@ -37,7 +37,12 @@ When running the application the user is faced with the main menu which contains
 
 The user can select any of the functions in the main menu, however, he is also asked at the end of each operation if he would like to perform any more calculations.
 
+----------------------------------------------------------------------------------------------------------------
 ![1](https://user-images.githubusercontent.com/40063504/88352004-a2b23880-cd2e-11ea-8375-aba4244c6213.PNG)
+----------------------------------------------------------------------------------------------------------------
 ![2](https://user-images.githubusercontent.com/40063504/88352010-a645bf80-cd2e-11ea-9486-e8a7ef540df0.PNG)
+----------------------------------------------------------------------------------------------------------------
 ![3](https://user-images.githubusercontent.com/40063504/88352013-a80f8300-cd2e-11ea-8df5-9a4168bc8bf5.PNG)
+----------------------------------------------------------------------------------------------------------------
 ![4](https://user-images.githubusercontent.com/40063504/88352017-a9d94680-cd2e-11ea-8d83-c001c2f47368.PNG)
+----------------------------------------------------------------------------------------------------------------
