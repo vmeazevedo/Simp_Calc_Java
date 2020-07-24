@@ -1,6 +1,6 @@
 ## Calculadora de 4 operações.
 
-A aplicação foi desenvolvida para realizar o cálculo de quatro tipos de operações aritméticas, soma, subtração, multiplicação e divisão. A calculadora é controlada através de seu menu de seleção de operações, que foi desenvolvido para facilitar a experiência do usuário durante a sua utilização da aplicação. 
+A aplicação foi desenvolvida para realizar o cálculo de quatro tipos de operações aritméticas, soma, subtração, multiplicação e divisão. O objetivo desse projeto foi validar os conhecimentos adquiridos no curso de Java e realizar um projeto que reunisse alguns dos principais tópicos aprendidos durante o curso. 
 
 ## Exemplo de funcionamento do código:
 Ao executar a aplicação o usuário se depara com o menu principal o qual contém as funções de:
@@ -20,7 +20,7 @@ O usuário pode selecionar qualquer uma das funções no menu principal, porém,
 
 ## 4 operations calculator.
 
-The application was developed to perform the calculation of four types of arithmetic operations, addition, subtraction, multiplication and division. The calculator is controlled through its operations selection menu, which was developed to facilitate the user experience when using the application.
+The application was developed to perform the calculation of four types of arithmetic operations, addition, subtraction, multiplication and division. The objective of this project was to validate the knowledge acquired in the Java course and to carry out a project that brought together some of the main topics learned during the course.
 
 ## Example of code operation:
 When running the application the user is faced with the main menu which contains the functions of:
